@@ -12,6 +12,7 @@ This is a simple React application that displays the full name and email address
 
 ## Installation
 
+```bash
 1. Clone the repository:
 git clone <repository url>
 
