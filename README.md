@@ -13,8 +13,6 @@ This is a simple React application that displays the full name and email address
 ## Installation
 
 1. Clone the repository:
-
-```bash
 git clone https://github.com/kishorekum/Eastvantage.git
 
 2. Install dependencies
