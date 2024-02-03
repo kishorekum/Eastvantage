@@ -15,7 +15,7 @@ This is a simple React application that displays the full name and email address
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/kishorekum/Eastvantage.git)
 
 2. Install dependencies
 npm install
