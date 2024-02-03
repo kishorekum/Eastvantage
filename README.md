@@ -24,5 +24,5 @@ npm install
 
 3. run
 
-```bash 
+```bash
 npm run dev
